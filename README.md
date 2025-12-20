@@ -1,4 +1,4 @@
-# Black Aphid Detection using Deep Learning
+# Black Aphid Detection using YOLO11s
 
 This repository presents a practice deep learning project for detecting black aphids on sticky traps in greenhouse environments using the YOLO object detection framework. The project is intended as a technical portfolio and learning exercise, focusing on model training, evaluation, and visualization rather than proposing a new dataset or biological discovery.
 
